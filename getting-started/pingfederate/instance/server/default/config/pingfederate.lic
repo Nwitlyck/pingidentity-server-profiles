@@ -1,0 +1,15 @@
+ID=00734696
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=12.1
+EnforcementType=3
+Tier=Subscription
+IssueDate=2021-12-09
+ExpirationDate=2026-12-09
+GracePeriod=1
+DeploymentMethod=Traditional
+Organization=Felipe ORG
+SignCode=FF1F
+Signature=302D02150088EC9B3C8AAF59295AEC99DC1FBCF82F30D3BD6C0214357EBEABCA5EE2DCCF862479D645B15D99B77C50
